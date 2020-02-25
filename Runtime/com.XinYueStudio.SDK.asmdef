@@ -1,0 +1,5 @@
+﻿{
+    "name": "com.XinYueSrudio.SDK",
+    "references": [ "Utility" ],
+    "includePlatforms": ["WindowsStandalone64"]
+}

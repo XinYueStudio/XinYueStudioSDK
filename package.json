@@ -1,0 +1,14 @@
+{
+  "name": "com.xinyuestudio.sdk",
+  "version": "1.0.3",
+  "displayName": "xinyuestudio sdk",
+  "description": "This is an sdk package for make a runtime editor",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "xinyuestudio",
+    "email": "775746081@qq.com",
+    "url": "https://www.xinyuestudio.com"
+  },
+  "dependencies": {}
+}
