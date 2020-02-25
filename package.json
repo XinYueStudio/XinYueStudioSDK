@@ -1,6 +1,6 @@
 {
   "name": "com.xinyuestudio.sdk",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "displayName": "XinYueStudio SDK",
   "description": "This is an sdk package for make a runtime editor",
   "unity": "2018.4",
