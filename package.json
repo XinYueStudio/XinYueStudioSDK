@@ -1,6 +1,6 @@
 {
   "name": "com.xinyuestudio.sdk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "displayName": "XinYueStudio SDK",
   "description": "This is an sdk package for make a runtime editor",
   "unity": "2018.4",
@@ -13,6 +13,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:XinYueStudio/XinYueStudioSDK.git"
+    "url": "git@github.com:XinYueStudio/XinYueStudioSDK.git",
+    "revision": "Head"
   }
 }
