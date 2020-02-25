@@ -1,5 +1,5 @@
 ﻿{
-    "name": "com.XinYueSrudio.SDK",
+    "name": "com.xinyuestudio.sdk",
     "references": [ "Utility" ],
     "includePlatforms": ["WindowsStandalone64"]
 }
